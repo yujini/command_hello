@@ -1,1 +1,2 @@
 print("star")
+print("bucks")
